@@ -16,8 +16,8 @@ Running this bot is simple and requires minimal setup. Follow the steps below:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/MrReval/Server-Traffic-Monitoring-Telegram-Bot.git
+   cd Server-Traffic-Monitoring-Telegram-Bot
    ```
 
 2. **Install Dependencies**
