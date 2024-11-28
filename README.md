@@ -1,6 +1,6 @@
 # Server Traffic Monitoring Telegram Bot
 
-![Logo](./readme.svg.svg)
+![Logo](./readme.svg)
 
 This is a small Telegram bot designed to provide server traffic usage reports.
 
